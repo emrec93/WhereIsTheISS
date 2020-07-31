@@ -1,0 +1,42 @@
+#issMap {
+    height: 450px;
+    width: 750px;
+    border-radius: 15px;
+    margin: auto auto 50px;
+}
+
+body {
+    text-align: center;
+    background-color: #666561;
+    font-family: 'Space Mono', monospace;
+}
+
+#heading {
+    color: whitesmoke;
+    font-weight: 300;
+    margin: 100px;
+}
+
+#lon {
+    color: whitesmoke;
+    margin: 2px;
+}
+
+#lat {
+    color: whitesmoke;
+    margin: 2px;
+}
+
+#alt {
+    color: whitesmoke;
+    margin: 2px;
+}
+
+#visibility {
+    color: whitesmoke;
+    margin: 2px;
+}
+
+#info {
+    color: whitesmoke;
+}
